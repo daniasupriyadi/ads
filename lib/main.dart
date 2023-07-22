@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.lightBlue,
         fontFamily: 'Nunito',
       ),
-      home: ForgotPage(),
+      home: SplashScreen(),
       routes: routes,
     );
   }
